@@ -1,4 +1,4 @@
 # Discover Design
 # You can see this project live at the following URL:
 
-[The Link](http://gamesfactory.me/rock-paper-scissors/)
+[The Link](http://gamesfactory.me/Discover-Design/)
